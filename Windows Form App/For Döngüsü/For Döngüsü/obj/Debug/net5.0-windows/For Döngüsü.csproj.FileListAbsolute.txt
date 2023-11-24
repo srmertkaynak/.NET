@@ -1,0 +1,17 @@
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For_Döngüsü.Form1.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.AssemblyInfo.cs
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\bin\Debug\net5.0-windows\For Döngüsü.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\bin\Debug\net5.0-windows\For Döngüsü.deps.json
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\bin\Debug\net5.0-windows\For Döngüsü.runtimeconfig.json
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\bin\Debug\net5.0-windows\For Döngüsü.runtimeconfig.dev.json
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\bin\Debug\net5.0-windows\For Döngüsü.dll
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\bin\Debug\net5.0-windows\For Döngüsü.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.dll
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\refint\For Döngüsü.dll
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\For Döngüsü.genruntimeconfig.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\For Döngüsü\For Döngüsü\obj\Debug\net5.0-windows\ref\For Döngüsü.dll

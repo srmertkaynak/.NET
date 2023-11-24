@@ -1,0 +1,10 @@
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\bin\Debug\Break and Continue.exe.config
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\bin\Debug\Break and Continue.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\bin\Debug\Break and Continue.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break and Continue.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break_and_Continue.Form1.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break_and_Continue.Properties.Resources.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break and Continue.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break and Continue.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break and Continue.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Break and Continue\Break and Continue\obj\Debug\Break and Continue.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP Class Kavramı.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP_Class_Kavramı.Form1.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP_Class_Kavramı.Properties.Resources.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP Class Kavramı.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP Class Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\bin\Debug\OOP Class Kavramı.exe.config
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\bin\Debug\OOP Class Kavramı.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\bin\Debug\OOP Class Kavramı.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP Class Kavramı.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\OOP Class Kavramı\OOP Class Kavramı\obj\Debug\OOP Class Kavramı.pdb

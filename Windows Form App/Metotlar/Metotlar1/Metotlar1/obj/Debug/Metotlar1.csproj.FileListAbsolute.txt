@@ -1,0 +1,10 @@
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\bin\Debug\Metotlar1.exe.config
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\bin\Debug\Metotlar1.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\bin\Debug\Metotlar1.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.Form1.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.Properties.Resources.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Metotlar\Metotlar1\Metotlar1\obj\Debug\Metotlar1.pdb

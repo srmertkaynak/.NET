@@ -1,0 +1,10 @@
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\bin\Debug\Kurt Adam Oyunu.exe.config
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\bin\Debug\Kurt Adam Oyunu.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\bin\Debug\Kurt Adam Oyunu.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt Adam Oyunu.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt_Adam_Oyunu.Form1.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt_Adam_Oyunu.Properties.Resources.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt Adam Oyunu.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt Adam Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt Adam Oyunu.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\OOP\Kurt Adam Oyunu\Kurt Adam Oyunu\obj\Debug\Kurt Adam Oyunu.pdb

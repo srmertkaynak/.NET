@@ -1,0 +1,10 @@
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\bin\Debug\Tahmin Oyunu.exe.config
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\bin\Debug\Tahmin Oyunu.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\bin\Debug\Tahmin Oyunu.pdb
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin_Oyunu.Form1.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin Oyunu.exe
+C:\Users\Mert\Desktop\Masaüstü\Mert KAYNAK\Eğitimler\C# - Sıfırdan Sektörün Derinliklerine .Net Core 5.0 Eğitimi\Windows Form App\Tahmin Oyunu\Tahmin Oyunu\obj\Debug\Tahmin Oyunu.pdb
